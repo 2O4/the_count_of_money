@@ -1,7 +1,25 @@
 # The Count Of Money
 
+![list cryptos](./preview/list.png)
+
+## Setup
+
 ### To run api:
-`cd ./api && npm install && node app.js`
+
+```bash
+cd api
+npm install
+nodemon server
+```
 
 ### To run front:
-`cd ./thecountof_money && npm install && npm start`
+
+```bash
+cd the_count_of_money
+npm install
+npm start
+```
+
+## Preview
+
+![details cryptos](./preview/details.png)
